@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1689494392 source:d:\lop thay an\tuan5\bai2(tuan5)\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<functional>
+

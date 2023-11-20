@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1692195779 source:d:\lop thay an\luyen tap\count right turn\main.cpp
+	<iostream>
+	<vector>
+	<bits/stdc++.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1692284732 source:d:\lop thay an\tuan4\bai3\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
