@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1700633364 source:d:\lop thay an\luyen tap\devise an algorithm that finds the sum of all the integers in a list\main.cpp
+	<iostream>
+	<vector>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1700663877 source:d:\lop thay an\luyen tap\find smallest integer in a finite sequence of natural numbers\main.cpp
+	<iostream>
+	<vector>
+

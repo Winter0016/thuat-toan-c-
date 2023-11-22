@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1700653663 source:d:\lop thay an\luyen tap\find negative number in list\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
